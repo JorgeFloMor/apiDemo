@@ -1,5 +1,6 @@
 API demo project
 =================
+[![Build Status](https://github.com/JorgeFloMor/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)](https://github.com/JorgeFloMor/apiDemo/actions/workflows/apiDemo-build.yaml)
 
 a demo project to be used to exemplify 
 the CI/CD process and other technologies 
@@ -13,4 +14,3 @@ at localhost:8080/greeting
 
 needs maven to run.
 
-Test
